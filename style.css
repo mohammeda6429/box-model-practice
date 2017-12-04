@@ -2,26 +2,40 @@
 
 * {
     border: 1px solid red;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', 'sans-serif';
     text-align: center;
 }
 
 #title {
-    background: yellow;
-    /*add CSS here*/
+    background: yellow;;
+    margin-top: 200px;
+    margin-bottom:30px;
+    margin-left:130px;
+    margin-right:130px;
+    display: block
+    
+   
     
 }
 
 #subtitle {
     background: black;
     color: white;
-    /*add CSS here*/
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 130px;
+    margin-right: 130px;
+    display: block;
+    
     
 }
 
 .topic {
     background: lightgray;
-    /*add CSS here*/
+    margin-top: 30px;
+    margin-bottom: 55px;
+    margin-right: 75px;
+    margin-left: 75px;
+    display: inline-block
     
 }
-
